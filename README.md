@@ -6,6 +6,8 @@ For the moment we have implemented:
 1. [Array List](https://en.wikipedia.org/wiki/Dynamic_array) </li>
 2. [Hash Table](https://en.wikipedia.org/wiki/Hash_table) </li>
 
+This API is [open source](https://github.com/RicardoPetronilho98/data-structs/blob/master/LICENSE) and made by [me](https://ricardopetronilho98.github.io/), [José Pereira](https://josepereira1.github.io/) and [Henrique Faria](https://github.com/henriquejosefaria).
+
 
 ## About ##
 
@@ -70,4 +72,4 @@ To sum up you should (must) implement bellow interface for each data:
 
 ### What data type can each data structure store? ###
 Any data type (int\* , float\*, char\*, strucutres implemented by user, etc.) can be stored. <br>
-This is guaranteed because we user void* data type each means any pointer can be stored.
+This is guaranteed because we use void* data type wich means any pointer can be stored.
